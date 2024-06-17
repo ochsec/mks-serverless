@@ -1,0 +1,4 @@
+config:
+  aws:profile: replmade
+  aws:region: us-west-2
+  msk-tutorial:pulumiOrg: replmade
